@@ -14,7 +14,7 @@ public class Order {
     private List<OrderItem> items;
 
     @DBRef
-    private User user;
+    private UserAccount userAccount;
     private OrderStatus status;
 
     public String getId() {
@@ -30,12 +30,12 @@ public class Order {
         this.items = items;
     }
 
-    public User getUser() {
-        return user;
+    public UserAccount getUserAccount() {
+        return userAccount;
     }
 
-    public void setUser(final User user) {
-        this.user = user;
+    public void setUserAccount(final UserAccount userAccount) {
+        this.userAccount = userAccount;
     }
 
     public OrderStatus getStatus() {
