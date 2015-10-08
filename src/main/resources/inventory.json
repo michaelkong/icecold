@@ -1,0 +1,3 @@
+{"_class":"com.slalom.icecold.domain.Inventory","_id":{"$oid":"560597bfd4c6592f818fb8c9"},"flavor":{"$id":{"$oid":"560439e377c81b96e432cd47"},"$ref":"flavor"},"quantity":"30.0"}
+{"_class":"com.slalom.icecold.domain.Inventory","_id":{"$oid":"560599e4d4c6592f818fb8ca"},"flavor":{"$id":{"$oid":"560439f577c81b96e432cd48"},"$ref":"flavor"},"quantity":"50.0"}
+{"_class":"com.slalom.icecold.domain.Inventory","_id":{"$oid":"56059a39d4c6592f818fb8cb"},"flavor":{"$id":{"$oid":"56043a0c77c81b96e432cd49"},"$ref":"flavor"},"quantity":"100.0"}

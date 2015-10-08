@@ -1,0 +1,4 @@
+{"_class":"com.slalom.icecold.domain.Flavor","_id":{"$oid":"560439e377c81b96e432cd47"},"flavorName":"Cherry","price":"5.5"}
+{"_class":"com.slalom.icecold.domain.Flavor","_id":{"$oid":"560439f577c81b96e432cd48"},"flavorName":"Chocolate","price":"4.5"}
+{"_class":"com.slalom.icecold.domain.Flavor","_id":{"$oid":"56043a0c77c81b96e432cd49"},"flavorName":"Coconut Cream","price":"7"}
+{"_class":"com.slalom.icecold.domain.Flavor","_id":{"$oid":"56043a3d77c81b96e432cd4a"},"flavorName":"Lemon","price":"3"}
