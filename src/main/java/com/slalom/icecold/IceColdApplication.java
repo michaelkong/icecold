@@ -113,5 +113,3 @@ class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     }
 
 }
-
-Introduce a maven error here
